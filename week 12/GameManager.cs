@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
         Instantiate(playerPrefab, transform.position, Quaternion.identity);
         CreateSky();
         InvokeRepeating("CreateEnemy", 1, 3);
-        InvokeRepeating("CreateCoin", 5, 15);
+        InvokeRepeating("CreateCoin", 5, 10);
     }
 
     // Update is called once per frame
@@ -68,3 +68,4 @@ public class GameManager : MonoBehaviour
         livesText.text = "Lives: " + currentLives;
     }
 }
+
