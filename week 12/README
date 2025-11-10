@@ -1,1 +1,12 @@
 Week 12 Assignment
+
+Team Members: Arya Kamat & Bianca Bowonthamachakr
+
+Task 1 - Completed by Arya in GameManager.cs
+
+Task 2 - Completed by Bianca and Arya in Coin.cs and GameManager.cs. Arya created a coin prefab with the sprite animation.
+         Bianca edited the coin spawning rate and area (GameManager.cs) and made the coin add to the score while Arya made 
+         the coin despawn after a few seconds (Coin.cs).
+
+Extra - Bianca edited PlayerController.cs so the player only moves on the bottom half of the screen like from week 11.
+        Arya recorded the example video.
