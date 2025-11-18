@@ -17,3 +17,11 @@ Task 2 - Completed by Bianca and Arya in Coin.cs and GameManager.cs. Arya create
 
 Extra - Bianca edited PlayerController.cs so the player only moves on the bottom half of the screen like from week 11.
         Arya recorded the example video.
+
+Week 13 Assignment
+
+Task 1 - Completed by Arya.
+
+Task 2 - Completed by Bianca and Arya.
+
+Extra - Arya added the final build of the project to the repository and Bianca created a video demo of the game.
